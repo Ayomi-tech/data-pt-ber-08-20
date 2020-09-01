@@ -4,9 +4,9 @@
 * I am from Ondo State, Nigeria.
 
 * I am masters student of Tourism, Hospitality and Event management BSBI.
-* Ayodeji is really new to coding but I think I am enjoying it day day here in Ironhack.
+* Ayodeji is really new to coding but I think I am enjoying it day by day here in Ironhack.
 
-**I am here at Ironhack for career changing into the Data world to become a Date Analyst**
+**I am here at Ironhack for a career changing into the Data world to become a Data Analyst**
 
 *I am looking forward to learn how to manipulate Data and interpretation of large Data.
 
