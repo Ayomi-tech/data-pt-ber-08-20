@@ -12,8 +12,4 @@
 
 * I would like to seek for job as an Analyst after the bootcamp
 
-<<<<<<< HEAD
 * This is my master branch
-=======
-* This is my conflictbranch
->>>>>>> conflictbranch
