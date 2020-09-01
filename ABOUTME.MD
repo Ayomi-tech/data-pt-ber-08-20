@@ -1,5 +1,5 @@
 # I am Ayodeji Agunbiade
-[Image](WhatsApp Image 2020-04-28 at 16.32.42 (2).jpeg)
+[Image](WhatsApp Image 2020-04-28 at 16.32.42 (2).png.jpeg)
 
 * I am from Ondo State, Nigeria.
 
